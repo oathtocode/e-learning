@@ -1,6 +1,6 @@
 ﻿<p align="center">
-  <a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=009ACD&height=100&section=header&text=Learnzilla-App&fontSize=60%&fontColor=ffffff" alt="website title image"></a>
-  <h2 align="center">👉A React Native Learnzilla E-learning App👈</h2>
+  <a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=009ACD&height=100&section=header&text=E-Learning App&fontSize=60%&fontColor=ffffff" alt="website title image"></a>
+  <h2 align="center">👉A React Native E-learning App👈</h2>
 </p>
 
 <p align="center">
