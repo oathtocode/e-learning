@@ -42,7 +42,7 @@ expo start
 
 <ul>
   <li>Tejas Tapas</li>  
-  <li>Shreyas Barve</li>  
-  <li>Rishabh Rathi <a href="http://rishabhrathi.live/" target="_blank">Website</a></li>
+  <li>Shreyas Barve | <a href="https://shreyasbarve.github.io/" target="_blank"> Website </a></li>  
+  <li>Rishabh Rathi | <a href="http://rishabhrathi.live/" target="_blank"> Website </a> | <a href="https://www.linkedin.com/in/rishabhrathi22" target="_blank"> LinkedIn </a> </li>
   <li>Aditya Morankar</li>  
 </ul>
