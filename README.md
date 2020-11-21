@@ -18,7 +18,7 @@ The main feature of the App are
 1. Teacher can Post Assignment and correseponding Marks
 2. Teacher can update the attendance of student on daily basis
 3. Student can view their progress and attendance regularly
-4. In short this app connect student and teacher on the same platform
+4. In short this app connects student and teacher on the same platform
 
 ## How to use the application
 
@@ -43,6 +43,6 @@ expo start
 <ul>
   <li>Tejas Tapas</li>  
   <li>Shreyas Barve</li>  
-  <li>Rishabh Rathi</li>
+  <li>Rishabh Rathi [Website](http://rishabhrathi.live/)</li>
   <li>Aditya Morankar</li>  
 </ul>
